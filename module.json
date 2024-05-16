@@ -1,0 +1,18 @@
+{
+  "id": "squad-token",
+  "title": "Squad Token",
+  "version": "1.1.0",
+  "library": true,
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "David Dean",
+      "email": "david@ddean.dev",
+      "discord": "Nibrodooh"
+    }
+  ],
+  "scripts": ["scripts/token.js"]
+}
