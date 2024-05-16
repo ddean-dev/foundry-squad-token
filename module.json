@@ -1,7 +1,6 @@
 {
   "title": "Squad Token",
   "id": "squad-token",
-  "website": "https://github.com/ddean-dev/foundry-squad-token",
   "version": "1.1.1",
   "download": "https://github.com/ddean-dev/foundry-squad-token/archive/refs/tags/v1.1.1.zip",
   "compatibility": {
@@ -15,6 +14,8 @@
       "discord": "Nibrodooh"
     }
   ],
+  "website": "https://github.com/ddean-dev/foundry-squad-token",
   "library": true,
-  "scripts": ["scripts/token.js"]
+  "scripts": ["scripts/token.js"],
+  "manifest": "https://raw.githubusercontent.com/ddean-dev/foundry-squad-token/main/module.json"
 }
